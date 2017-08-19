@@ -1,7 +1,0 @@
-# Begin IP blocking #
-Order Allow,Deny
-Deny from 69.84.207.246
-Allow from all
-# End IP blocking #
-
-

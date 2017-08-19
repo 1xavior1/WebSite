@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Flash Lightning Studios - Home</title>
+<meta property='og:site_name' content='Flash Lightning Studios' />
+<meta property='og:title' content='Flash Lightning Studios' />
+<meta property='og:description' content='Flash Lightning Studios, INC. ' />
+<meta property='og:image' content='http://flashlightningstudios.com/uploads/3/6/3/4/3634151/1181693.jpg' />
+<meta property='og:image' content='http://flashlightningstudios.com/uploads/3/6/3/4/3634151/7945635.jpg' />
+<meta property='og:image' content='http://flashlightningstudios.com/uploads/3/6/3/4/3634151/677562.jpg' />
+<meta property='og:image' content='http://www.e-zeeinternet.com/count.php?page=1117378&style=LED_g&nbdigits=9' />
+<meta property='og:url' content='http://flashlightningstudios.com/' />
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    
+<link rel="stylesheet" href="//assets.dragndropbuilder.com/css/sites.css?buildTime=1432850078" type="text/css" /><link rel='stylesheet' type='text/css' href='http://www.dragndropbuilder.com/editor/libraries/fancybox/fancybox.css?1432850078' />
+<link rel='stylesheet' type='text/css' href='/files/main_style.css?1450046149' title='wsite-theme-css' />
+<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Nunito:400,300,700' rel='stylesheet' type='text/css' />
+<style type='text/css'>
+.wsite-elements div.paragraph, .wsite-elements p, .wsite-elements .product-block .product-title, .wsite-elements .product-description, .wsite-elements .wsite-form-field label, .wsite-elements .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {font-family:Nunito !important;}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {color:#dab844 !important;}
+.wsite-elements h2, .wsite-elements .product-long .product-title, .wsite-elements .product-large .product-title, .wsite-elements .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+#wsite-title {font-family:Nunito !important;font-size:60px !important;font-weight:700 !important;color:#c39b15 !important;}
+</style>
+<style type='text/css'>
+.wsite-header {
+	background-image: url(/uploads/3/6/3/4/3634151/header_images/1443905851.jpg) !important;
+	background-position: 0 0 !important;
+}
+</style>
+<link rel='stylesheet' type='text/css' href='http://www.dragndropbuilder.com/editor/images/slideshow/slideshow.css?1432850078' />
+<script><!--
+var STATIC_BASE = 'http://www.dragndropbuilder.com/';
+var STYLE_PREFIX = 'wsite';
+//-->
+</script>
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+<script src='//assets.dragndropbuilder.com/js/site/main.js?buildTime=1432850078'></script>
+<script type='text/javascript' src='http://www.dragndropbuilder.com/editor/libraries/slideshow-jq.js?buildTime=1432850078'></script>
+<script type='text/javascript'><!--
+(function(jQuery){
+function initFlyouts(){initPublishedFlyoutMenus([{"id":"269709225831172409","title":"Home","url":"index.html","target":""}],'269709225831172409',"<li class='wsite-nav-more'><a href='#'>more...<\/a><\/li>",'active',false)}
+if (jQuery) {
+if (jQuery.browser.msie && !window.flyoutMenusRefreshable) window.onload = initFlyouts;
+else jQuery(initFlyouts);
+}else{
+if (Prototype.Browser.IE) window.onload = initFlyouts;
+else document.observe('dom:loaded', initFlyouts);
+}
+})(window._W && _W.jQuery)
+//-->
+</script>
+</head>
+<body class='tall-header-page wsite-theme-light wsite-page-index'>
+<div id="header-wrap">
+        <div class="container">
+            <table id="header">
+                <tr>
+					<td id="header-left">
+                        <table>
+                            <tr>
+                            	<td class="search"></td>
+								<td class="social"><div style="text-align:left;"><div style="height:0px;overflow:hidden"></div>
+<span class="wsite-social wsite-social-default"><a class='wsite-social-item wsite-social-facebook' href='http://facebook.com/flsgames' target='_blank'><span class='wsite-social-item-inner'></span></a><a class='wsite-social-item wsite-social-mail' href='mailto:DanielH@FlashLightningStudios.com' target='_blank'><span class='wsite-social-item-inner'></span></a></span>
+<div style="height:0px;overflow:hidden"></div></div></td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td id="header-right">
+                        <table>
+                            <tr>
+                            	<td class="phone-number"><span class='wsite-text'>Like us on FaceBook</span></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div><!-- end container -->
+    </div><!-- end header-wrap -->  
+
+    <div id="nav-wrap">
+		<div id="nav-border-top">
+			<div id="nav-border-bottom">
+				<div class="container">
+					<table>
+						<tr>
+							<td id="logo"><span class='wsite-logo'><a href='/'><span id="wsite-title">Flash Lightning Studios</span></a></span></td>
+							<td id="nav"><ul class='wsite-menu-default'><li id='active'><a href='/index.html'>Home</a></li></ul></td>
+						</tr>
+					</table>
+				</div><!-- end container -->
+			</div><!-- end nav-border-bottom -->
+		</div><!-- end nav-border-top -->
+    </div><!-- end nav-wrap -->
+	<div id="outer-banner-wrap">
+    <div id="banner-wrap">
+        <div class="container">
+            <div id="banner">
+            
+                <div class="wsite-header"></div>
+                
+                <div style="clear:both;"></div>
+            </div><!-- end banner -->
+        </div><!-- end container -->
+    </div><!-- end banner-wrap -->
+	</div>
+    <div id="main-wrap">
+        <div class="container">
+			<div class="inner-container">
+				<div id='wsite-content' class='wsite-elements wsite-not-footer'>
+<div><div class="wsite-multicol"><div class='wsite-multicol-table-wrap' style='margin:0 -15px'>
+<table class='wsite-multicol-table'>
+<tbody class='wsite-multicol-tbody'>
+<tr class='wsite-multicol-tr'>
+<td class='wsite-multicol-col' style='width:36.515388628065%;padding:0 15px'>
+
+<h2 style="text-align:center;"><font size="7" color="#166226"><strong><a href="/dmoney-by-fls.html" title="">DMoney</a></strong></font></h2>
+
+<div><div style="height:20px;overflow:hidden"></div>
+<div id='728647725132785727-slideshow'></div>
+<script type='text/javascript'>
+(function(jQuery) {
+function init() { wSlideshow.render({elementID:"728647725132785727",nav:"none",navLocation:"bottom",captionLocation:"bottom",transition:"mosaic",autoplay:"1",speed:"7",aspectRatio:"auto",showControls:"false",randomStart:"false",images:[{"url":"3/6/3/4/3634151/1181693.jpg","width":"333","height":"228"},{"url":"3/6/3/4/3634151/7638134.jpg","width":"250","height":"250"}]}) }
+jQuery ? jQuery(init) : document.observe('dom:loaded', init)
+})(window._W && _W.jQuery)
+</script>
+
+<div style="height:20px;overflow:hidden"></div></div>
+
+</td>
+<td class='wsite-multicol-col' style='width:30.151278038602%;padding:0 15px'>
+
+<h2 style="text-align:center;"><font size="7" color="#49be00"><a href="/games.html" title="">Games</a></font></h2>
+
+<div><div style="height:40px;overflow:hidden"></div>
+<div id='233965761215442573-slideshow'></div>
+<script type='text/javascript'>
+(function(jQuery) {
+function init() { wSlideshow.render({elementID:"233965761215442573",nav:"none",navLocation:"bottom",captionLocation:"bottom",transition:"slice",autoplay:"1",speed:"9",aspectRatio:"auto",showControls:"false",randomStart:"true",images:[{"url":"3\/6\/3\/4\/3634151\/7945635.jpg","width":"333","height":"187"},{"url":"3\/6\/3\/4\/3634151\/6722724.jpg","width":"326","height":"250"},{"url":"3\/6\/3\/4\/3634151\/2750028.jpg","width":333,"height":166,"fullHeight":500,"fullWidth":1000}]}) }
+jQuery ? jQuery(init) : document.observe('dom:loaded', init)
+})(window._W && _W.jQuery)
+</script>
+
+<div style="height:10px;overflow:hidden"></div></div>
+
+</td>
+<td class='wsite-multicol-col' style='width:33.333333333333%;padding:0 15px'>
+
+<h2 style="text-align:center;"><font size="7" color="#48ba00"><a href="/software.html" title="">Software</a></font></h2>
+
+<div><div style="height:10px;overflow:hidden"></div>
+<div id='271586220460966864-slideshow'></div>
+<script type='text/javascript'>
+(function(jQuery) {
+function init() { wSlideshow.render({elementID:"271586220460966864",nav:"none",navLocation:"bottom",captionLocation:"bottom",transition:"fold",autoplay:"1",speed:"6",aspectRatio:"auto",showControls:"false",randomStart:"true",images:[{"url":"3\/6\/3\/4\/3634151\/677562.jpg","width":333,"height":249,"fullHeight":768,"fullWidth":1024},{"url":"3\/6\/3\/4\/3634151\/5785120.jpg","width":333,"height":249,"fullHeight":465,"fullWidth":620},{"url":"3\/6\/3\/4\/3634151\/4902868.jpg","width":333,"height":166,"fullHeight":300,"fullWidth":600}]}) }
+jQuery ? jQuery(init) : document.observe('dom:loaded', init)
+})(window._W && _W.jQuery)
+</script>
+
+<div style="height:0px;overflow:hidden"></div></div>
+
+</td>
+</tr>
+</tbody>
+</table>
+</div></div></div>
+
+<div><div style="height: 20px; overflow: hidden; width: 100%;"></div>
+<hr class="styled-hr" style="width:100%;"></hr>
+<div style="height: 20px; overflow: hidden; width: 100%;"></div></div>
+
+<div><div class="wsite-multicol"><div class='wsite-multicol-table-wrap' style='margin:0 -15px'>
+<table class='wsite-multicol-table'>
+<tbody class='wsite-multicol-tbody'>
+<tr class='wsite-multicol-tr'>
+<td class='wsite-multicol-col' style='width:97.575431034483%;padding:0 15px'>
+
+<h2 style="text-align:center;"><font size="7">total visitors:</font></h2>
+
+<div><div id="662083473799225985" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><!-- Counter Code START --><a href="http://www.e-zeeinternet.com/" target="_blank"><img src="http://www.e-zeeinternet.com/count.php?page=1117378&style=LED_g&nbdigits=9" alt="Hit Counter" border="0" ></a><br><!-- Counter Code END --></div>
+
+
+
+</div>
+
+</td>
+<td class='wsite-multicol-col' style='width:2.4245689655172%;padding:0 15px'></td>
+</tr>
+</tbody>
+</table>
+</div></div></div></div>
+
+			</div>
+        </div><!-- end container -->
+    </div><!-- end main-wrap -->
+
+    <div id="footer-wrap">
+		<div id="footer-inner-wrap">
+			<div class="container">
+				<div class='wsite-elements wsite-footer'>
+<div><div class="wsite-multicol"><div class='wsite-multicol-table-wrap' style='margin:0 -15px'>
+<table class='wsite-multicol-table'>
+<tbody class='wsite-multicol-tbody'>
+<tr class='wsite-multicol-tr'>
+<td class='wsite-multicol-col' style='width:97.651356993737%;padding:0 15px'></td>
+<td class='wsite-multicol-col' style='width:2.348643006263%;padding:0 15px'></td>
+</tr>
+</tbody>
+</table>
+</div></div></div>
+
+<div class="paragraph" style="text-align:right;">Flash Lightning Studios, INC.&nbsp;</div></div><script type='text/javascript'>
+<!--
+
+if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
+	var windowHref = window.location.href || '';
+	if (windowHref.indexOf('?') > -1) {
+		windowHref += '&';
+	} else {
+		windowHref += '?';
+	}
+	document.write(
+		"&nbsp;&nbsp;&nbsp;&nbsp;" +
+		"<a class='wsite-view-link-mobile' href='" + windowHref + "view=mobile'>Mobile Site</a>"
+	);
+}
+
+//-->
+</script>
+
+			</div><!-- end container -->
+		</div><!-- end footer-inner-wrap -->
+    </div><!-- end footer-wrap -->
+	
+
+</body>
+</html>

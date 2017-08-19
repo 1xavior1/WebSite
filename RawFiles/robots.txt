@@ -1,0 +1,9 @@
+Sitemap: http://flashlightningstudios.com/sitemap.xml
+
+User-agent: *
+Disallow: /age-checker.html
+Disallow: /dog-fight-2.html
+Disallow: /interactive-buddy.html
+Disallow: /dmoney-by-fls.html
+Disallow: /random.html
+

@@ -1,4 +1,9 @@
-DirectoryIndex home.html
+DirectoryIndex index.html
+
+AuthName "Admin Concsole"
+AuthUserFile /001/.htpasswd
+AuthType Basic
+require valid-user
 
 ErrorDocument 404 /errorpages/404.html
 

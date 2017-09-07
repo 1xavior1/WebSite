@@ -1,4 +1,4 @@
-/*
+﻿/*
  * Copyright (c) 2011.
  *
  * Author: oldj <oldj.wu@gmail.com>
